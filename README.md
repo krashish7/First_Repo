@@ -1,3 +1,3 @@
 # First_Repo
 
-This is the first repo created by me.
+This is the first repository created by me.
